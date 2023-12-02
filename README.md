@@ -5,6 +5,7 @@ Este proyecto es un ejemplo simple de cómo enviar datos de temperatura y humeda
 Antes de cargar el código en tu dispositivo, asegúrate de agregar la siguiente URL adicional en el administrador de Arduino IDE para el módulo ESP8266:
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+![Texto alternativo](url_de_la_imagen)
 
 ## Uso
 1. Conecta tu dispositivo IoT a una red WiFi.
