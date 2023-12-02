@@ -1,4 +1,4 @@
-# Protocolos Conexión ESP8266
+# Protocolos de conexión usando el módulo ESP8266
 Este proyecto es un ejemplo simple de cómo enviar datos de temperatura y humedad a Thingsboard utilizando un dispositivo IoT (ESP8266) con conectividad a WiFi. Se utiliza un microcontrolador compatible con Arduino IDE y una conexión WiFi para enviar datos aleatorios de temperatura y humedad a través de HTTP POST y MQTT a un servidor Thingsboard.
 
 ## Configuración
